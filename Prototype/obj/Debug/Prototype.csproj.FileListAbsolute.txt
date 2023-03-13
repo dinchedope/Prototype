@@ -1,0 +1,14 @@
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\bin\Debug\Prototype.exe.config
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\bin\Debug\Prototype.exe
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\bin\Debug\AirPlane.dll
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\bin\Debug\AirPlane.pdb
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\obj\Debug\Prototype.Form1.resources
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.cache
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\obj\Debug\Prototype.csproj.CopyComplete
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\obj\Debug\Prototype.exe
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\Prototype\obj\Debug\Prototype.pdb

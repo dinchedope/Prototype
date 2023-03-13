@@ -1,0 +1,12 @@
+D:\College\4 курс 2 семестр\КПЗ\Prototype\Prototype\AirPlane\obj\Debug\AirPlane.csproj.AssemblyReference.cache
+D:\College\4 курс 2 семестр\КПЗ\Prototype\Prototype\AirPlane\obj\Debug\AirPlane.csproj.CoreCompileInputs.cache
+D:\College\4 курс 2 семестр\КПЗ\Prototype\Prototype\AirPlane\bin\Debug\AirPlane.dll
+D:\College\4 курс 2 семестр\КПЗ\Prototype\Prototype\AirPlane\bin\Debug\AirPlane.pdb
+D:\College\4 курс 2 семестр\КПЗ\Prototype\Prototype\AirPlane\obj\Debug\AirPlane.dll
+D:\College\4 курс 2 семестр\КПЗ\Prototype\Prototype\AirPlane\obj\Debug\AirPlane.pdb
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\AirPlane\bin\Debug\AirPlane.dll
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\AirPlane\bin\Debug\AirPlane.pdb
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\AirPlane\obj\Debug\AirPlane.csproj.AssemblyReference.cache
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\AirPlane\obj\Debug\AirPlane.csproj.CoreCompileInputs.cache
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\AirPlane\obj\Debug\AirPlane.dll
+D:\College\4 курс 2 семестр\КПЗ\Prototype normis\Prototype\AirPlane\obj\Debug\AirPlane.pdb
